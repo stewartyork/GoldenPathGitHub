@@ -1,9 +1,51 @@
 # Test this md file page in the GoldenPathGitHub repository
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home - Golden Path</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 40px; 
+            background: #f9f9f9; 
+            color: #222;
+        }
+        header {
+            margin-bottom: 30px;
+        }
+        h1 {
+            color: #2a5d84;
+        }
+        nav a {
+            margin-right: 15px;
+            text-decoration: none;
+            color: #2a5d84;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            background: #fff;
+            padding: 24px;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <header>
+        <h1>Welcome to Golden Path</h1>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <p>This is the home page of the Golden Path project. Explore our site to learn more!</p>
+    </main>
 </body>
 </html>
