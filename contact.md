@@ -7,9 +7,10 @@ theme: minima
 
 # York Inventory
 ## Guns
-| Name |     |Picture | Serial No.  |Add Pics | Description | Cost ($) |
+| Name |     | | Serial No.  |Add Pics | Description | Cost ($) |
 |------|------|------|------|-------|-----|-------|
-| Model 1000     |![Model 1000](/Images/Model1000_Gun.JPEG)   | FS31694    |  12 Gauge    | [Model 1000 Serial Number](/Images/Model1000_SN.JPEG) |   |   |
+|![Model 1000](/Images/Model1000_Gun.JPEG)   |   |   |   |    |    |    |   
+| Model 1000     |  | FS31694    |  12 Gauge    | [Model 1000 Serial Number](/Images/Model1000_SN.JPEG) |   |   |
 | Winchester     |![Winchester](/Images/Winchester_Gun.JPEG)   |     |  12 Gauge    | [Winchester Butt](/Images/Winchester_Butt.JPEG) |   |    |
 | Winchester 20     |![Winchester 20](/Images/Winchester_Gun20.JPEG)   |    |  20 Gauge    | [Butt](/Images/Winchester_20BUTT.JPEG) |   |    |
 |Winchester Centennial '66 Long      |![Winchester Centennial '66 Long ](/Images/WinchesterCentennial66_Gun1.JPEG)   | 51156   |  12 Gauge    | [Serial Number](/Images/WinchesterCentennial66_Gun1_SN.JPEG) |   |    |
