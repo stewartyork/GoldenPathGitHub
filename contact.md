@@ -3,7 +3,7 @@ layout: default
 title: Contact
 theme: minima
 ---
-
+[Back](home.html)
 
 # York Inventory
 ## Guns
