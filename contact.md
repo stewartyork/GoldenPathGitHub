@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contact
+---
+
+
 # York Inventory
 ## Guns
 | Name |     |Picture | Serial No.  |Add Pics | Description | Cost ($) |
