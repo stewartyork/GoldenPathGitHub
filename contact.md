@@ -43,38 +43,51 @@ theme: minima
 
 ## Master Bedroom
 
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
+| Name  | |  |Add Pics | Cost ($) |Claim |
 |-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+| Bed      |  |  | [Link](/Images/master/bed.png)  |     | Storage |
+| Bedside Table     |  |  | [Link](/Images/master/bedside%20table%20(4in).png)  |     |Storage  |
+| Bird Picture     |  |  | [Link](/Images/master/bird%20pic%20(4in).png)  |     |  |
+|Directory Chair      |  |  | [Link](/Images/master/chair%20(4in).png)  |     |  |
+| Dog Picture     |  |  | [Link](/Images/master/dog%20picture%20(4in).png)  |     |  |
+| Dresser w/mirror     |  |  | [Link](/Images/master/dresser%20with%20mirror%20(4in).png)  |     |Storage  |
+| DVD Table     |  |  | [Link](/Images/master/DVD%20table%20(4in).png)  |     |  |
+| Lamps     |  |  | [Link](/Images/master/lamps%20(4in).png)  |     | Carl |
+|Bedside Table      |  |  | [Link](/Images/master/narrow%20bedside%20table%20(4in).png)  |     |  |
+| Small Bookcase     |  |  | [Link](/Images/master/small%20bookcase%20(4in).png)  |     |  |
+| Tall Dresser     |  |  | [Link](/Images/master/tall%20dresser%20(4in).png)  |     |Storage  |
+| TV     |  |  | [Link](/Images/master/tv%20(4in).png)  |     |  |
+
 
 ## Den
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
-|-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+
+| Name  | | |Add Pics | Cost ($) |Claim |
+|-------|-|-|---------|----------|------|
+|       |  |  | [Link](/Images)  |     |  |
 
 ## Kitchen
 
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
-|-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+| Name  | | |Add Pics | Cost ($) |Claim |
+|-------|-|-|---------|----------|------|
+|       |  |  | [Link](/Images)  |     |  |
 
 ## Kathy Bedroom
 
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
-|-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+| Name  | | |Add Pics | Cost ($) |Claim |
+|-------|-|-|---------|----------|------|
+|       |  |  | [Link](/Images)  |     |  |
 
 ## Rena Bedroom
 
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
-|-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+| Name  | | |Add Pics | Cost ($) |Claim |
+|-------|-|-|---------|----------|------|
+|       |  |  | [Link](/Images)  |     |  |
 
 ## Outdoor
 
-| Name  |Serial No. |Gauge   |Add Pics | Cost ($) |Claim |
-|-------|-----------|--------|---------|----------|------|
-|       |           |        |         |          |      |
+| Name  | | |Add Pics | Cost ($) |Claim |
+|-------|-|-|---------|----------|------|
+|       |  |  | [Link](/Images)  |     |  |
 
 
 
