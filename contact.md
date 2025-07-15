@@ -26,37 +26,37 @@ theme: minima
 
 | Name  | |   |Add Pics | Cost ($) |Claim |
 |-------|-|---|---------|----------|------|
-| Bed      | |   |[Link](/Images/back/bed%20(4in).png)         |          | Rena/Brandon     |
-| Bookcase      | |   |[Link](/Images/back/bookcase%20(4in).png)         |          |     |
-|Cardio Pedal       | |   |[Link](/Images/back/cardio%20pedal%20(4in).png)         |          |     |
-|Computer Chair       | |   |[Link](/Images/back/computer%20chair%20(4in).png)         |          |     |
-| Computer      | |   |[Link](/Images/back/computer%20monitor_keyboard%20(4in).png)         |          |     |
-| Desk      | |   |[Link](/Images/back/desk%20(4in).png)         |          |     |
-|Vaccum       | |   |[Link](/Images/back/eureka%20vacuum%20(4in).png)         |          |     |
-| Hall Artwork      | |   |[Link](/Images/back/hall%20artwork%20(4in).png)         |          |     |
-| Printer      | |   |[Link](/Images/back/printer%20(4in).png)         |          |     |
-| Rocking Chair      | |   |[Link](/Images/back/rocking%20chair%20(4in).png)         |          |     |
-| Round Tower Table      | |   |[Link](/Images/back/round%20tower%20table%20(4in).png)         |          |     |
-| Shredder      | |   |[Link](/Images/back/shredder%20(4in).png)         |          |     |
-| Step Stool      | |   |[Link](/Images/back/step%20stool%20(4in).png)         |          |     |
-|Table Lamp      | |   |[Link](/Images/back/table%20lamp%20(4in).png)         |          |     |
+| Bed      | |   |[Link](/Images/back/bed.JPEG)         |          | Rena/Brandon     |
+| Bookcase      | |   |[Link](/Images/back/bookcase.JPEG)         |          |     |
+|Cardio Pedal       | |   |[Link](/Images/back/cardiopedal.JPEG)         |          |     |
+|Computer Chair       | |   |[Link](/Images/back/computerchair.JPEG)         |          |     |
+| Computer      | |   |[Link](/Images/back/computermonitor_keyboard.JPEG)         |          |     |
+| Desk      | |   |[Link](/Images/back/desk.JPEG)         |          |     |
+|Vaccum       | |   |[Link](/Images/back/vacuums.JPEG)         |          |     |
+| Hall Artwork      | |   |[Link](/Images/back/hallartwork.JPEG)         |          |     |
+| Printer      | |   |[Link](/Images/back/printer.JPEG)         |          |     |
+| Rocking Chair      | |   |[Link](/Images/back/rockingchair.JPEG)         |          |     |
+| Round Tower Table      | |   |[Link](/Images/back/roundtowertable.JPEG)         |          |     |
+| Shredder      | |   |[Link](/Images/back/shredder.JPEG)         |          |     |
+| Step Stool      | |   |[Link](/Images/back/stepstool.JPEG)         |          |     |
+|Table Lamp      | |   |[Link](/Images/back/tablelamp.JPEG)         |          |     |
 
 ## Master Bedroom
 
 | Name  | |  |Add Pics | Cost ($) |Claim |
 |-------|-----------|--------|---------|----------|------|
-| Bed      |  |  | [Link](/Images/master/bed.png)  |     | Storage |
-| Bedside Table     |  |  | [Link](/Images/master/bedside%20table%20(4in).png)  |     |Storage  |
-| Bird Picture     |  |  | [Link](/Images/master/bird%20pic%20(4in).png)  |     |  |
-|Directory Chair      |  |  | [Link](/Images/master/chair%20(4in).png)  |     |  |
-| Dog Picture     |  |  | [Link](/Images/master/dog%20picture%20(4in).png)  |     |  |
-| Dresser w/mirror     |  |  | [Link](/Images/master/dresser%20with%20mirror%20(4in).png)  |     |Storage  |
-| DVD Table     |  |  | [Link](/Images/master/DVD%20table%20(4in).png)  |     |  |
-| Lamps     |  |  | [Link](/Images/master/lamps%20(4in).png)  |     | Carl |
-|Bedside Table      |  |  | [Link](/Images/master/narrow%20bedside%20table%20(4in).png)  |     |  |
-| Small Bookcase     |  |  | [Link](/Images/master/small%20bookcase%20(4in).png)  |     |  |
-| Tall Dresser     |  |  | [Link](/Images/master/tall%20dresser%20(4in).png)  |     |Storage  |
-| TV     |  |  | [Link](/Images/master/tv%20(4in).png)  |     |  |
+| Bed      |  |  | [Link](/Images/master/bed.JPEG)  |     | Storage |
+| Bedside Table     |  |  | [Link](/Images/master/bedsidetable.JPEG)  |     |Storage  |
+| Bird Picture     |  |  | [Link](/Images/master/birdpic.JPEG)  |     |  |
+|Directory Chair      |  |  | [Link](/Images/master/chair.JPEG)  |     |  |
+| Dog Picture     |  |  | [Link](/Images/master/dogpicture.JPEG)  |     |  |
+| Dresser w/mirror     |  |  | [Link](/Images/master/dresserwithmirror.JPEG)  |     |Storage  |
+| DVD Table     |  |  | [Link](/Images/master/DVDtable.JPEG)  |     |  |
+| Lamps     |  |  | [Link](/Images/master/lamps.JPEG)  |     | Carl |
+|Bedside Table      |  |  | [Link](/Images/master/bedsidetable.JPEG)  |     |  |
+| Small Bookcase     |  |  | [Link](/Images/master/smallbookcase.JPEG)  |     |  |
+| Tall Dresser     |  |  | [Link](/Images/master/talldresser.JPEG)  |     |Storage  |
+| TV     |  |  | [Link](/Images/master/tv.JPEG)  |     |  |
 
 
 ## Den
@@ -67,21 +67,21 @@ theme: minima
 | Carl Artwork      |  |  | [Link](/Images/den/carldenartwork.JPEG)  |     | Carl/Carly |
 | Corner Cabinet      |  |  | [Link](/Images/den/cornercabinet.JPEG)  |     |  |
 |  Den Lamp     |  |  | [Link](/Images/den/denlamp(4in).JPEG)  |     |  |
-| Den Rug      |  |  | [Link](/Images/den/den%20rug%20(4in).png)  |     |  |
-|  Den Tv     |  |  | [Link](/Images/den/den%20tv%20(4in).png)  |     |Kathy/Carl  |
-|  Heater     |  |  | [Link](/Images/den/fire%20place%20(4in).png)  |     |  |
-| Floor Fan      |  |  | [Link](/Images/den/floor%20fan%20(4in).png)  |     |  |
-|Floor Lamp       |  |  | [Link](/Images/den/floor%20lamp%20(4in).png)  |     |  |
-| Green Recliner      |  |  | [Link](/Images/den/green%20recliner%20(4in).png)  |     |  |
-|Hexagon Table       |  |  | [Link](/Images/den/hexagon%20table%20(4in).png)  |     | Stewart |
-| Leather Couch     |  |  | [Link](/Images/den/leather%20couch%20(4in).png)  |     |  |
-| Matching Side Tables      |  |  | [Link](/Images/den/matching%20side%20table%20(4in).png)  |     |  |
-| Rat High table      |  |  | [Link](/Images/den/Rats%20high%20table%20(4in).png)  |     |  |
-| Red Recliner      |  |  | [Link](/Images/den/red%20recliner%20(4in).png)  |     |  |
-|Side Table       |  |  | [Link](/Images/den/side%20table%20(has%20matchimg%20one)%20(4in).png)  |     |  |
-|Samll Folding Chair       |  |  | [Link](/Images/den/small%20folding%20table%20(4in).png)  |     |  |
-| TV Stand      |  |  | [Link](/Images/den/tv%20stand%20(4in).png)  |     |  |
-| Wall Clock      |  |  | [Link](/Images/den/wall%20clock%20(4in).png)  |     |  |
+| Den Rug      |  |  | [Link](/Images/den/denrug.JPEG)  |     |  |
+|  Den Tv     |  |  | [Link](/Images/den/dentv.JPEG)  |     |Kathy/Carl  |
+|  Heater     |  |  | [Link](/Images/den/fireplace.JPEG)  |     |  |
+| Floor Fan      |  |  | [Link](/Images/den/floorfan.JPEG)  |     |  |
+|Floor Lamp       |  |  | [Link](/Images/den/floorlamp.JPEG)  |     |  |
+| Green Recliner      |  |  | [Link](/Images/den/greenrecliner.JPEG)  |     |  |
+|Hexagon Table       |  |  | [Link](/Images/den/hexagontable.JPEG)  |     | Stewart |
+| Leather Couch     |  |  | [Link](/Images/den/leathercouch.JPEG)  |     |  |
+| Matching Side Tables      |  |  | [Link](/Images/den/matchingsidetable.JPEG)  |     |  |
+| Rat High table      |  |  | [Link](/Images/den/Ratshightable.JPEG)  |     |  |
+| Red Recliner      |  |  | [Link](/Images/den/redrecliner.JPEG)  |     |  |
+|Side Table       |  |  | [Link](/Images/den/sidetable2.JPEG)  |     |  |
+|Small Folding Chair       |  |  | [Link](/Images/den/smallfoldingtable.JPEG)  |     |  |
+| TV Stand      |  |  | [Link](/Images/den/tvstand.JPEG)  |     |  |
+| Wall Clock      |  |  | [Link](/Images/den/wallclock.JPEG)  |     |  |
 
 
 ## Kitchen
