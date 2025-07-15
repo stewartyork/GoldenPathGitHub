@@ -88,25 +88,51 @@ theme: minima
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-|       |  |  | [Link](/Images)  |     |  |
+| China Cabinet     |  |  | [Link](/Images/kitchen/chinacabinet.JPEG)  |     |  |
+| Folding Table      |  |  | [Link](/Images/kitchen/foldingtable.JPEG)  |     |  |
+| Kitchen Painting      |  |  | [Link](/Images/kitchen/kitchenpainting.JPEG)  |     |  |
+| Kitchen Table/Chairs      |  |  | [Link](/Images/kitchen/kitchentableandchairs.JPEG)  |     |  |
+| Portable Storage Cabinet      |  |  | [Link](/Images/kitchen/portablestoragecabinet.JPEG)  |     |  |
+|Prayer Hands       |  |  | [Link](/Images/kitchen/prayerhands.JPEG)  |     |  |
+| Spice Rack      |  |  | [Link](/Images/kitchen/spicerack.JPEG)  |     |  |
+
 
 ## Kathy Bedroom
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-|       |  |  | [Link](/Images)  |     |  |
+| Bed      |  |  | [Link](/Images/middle/bedmiddle.JPEG)  |     |  |
+| Dresser      |  |  | [Link](/Images/middle/dresser.JPEG)  |     |  |
+| Fan      |  |  | [Link](/Images/middle/fan.JPEG)  |     |  |
+| Low Dresser      |  |  | [Link](/Images/middle/lowdresser.JPEG)  |     |  |
+| Table with Basket      |  |  | [Link](/Images/middle/tablewithbaskets.JPEG)  |     |  |
+| TV      |  |  | [Link](/Images/middle/tv.JPEG)  |     |  |
 
 ## Rena Bedroom
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-|       |  |  | [Link](/Images)  |     |  |
+| Corner Table      |  |  | [Link](/Images/front/cornertable.JPEG)  |     |  |
+| Jewelry Boxes      |  |  | [Link](/Images/front/jewelryboxes.JPEG)  |     |  |
+| TV       |  |  | [Link](/Images/front/tv-mom.JPEG)  |     |  |
+| Washer Dryer      |  |  | [Link](/Images/front/washerdryer.JPEG)  |     |  |
+| White Bed      |  |  | [Link](/Images/front/whitebed.JPEG)  |     |  |
+| White Desk      |  |  | [Link](/Images/front/whitedesk.JPEG)  |     |  |
+| White Dresser      |  |  | [Link](/Images/front/whitedresser.JPEG)  |     |  |
 
 ## Outdoor
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-|       |  |  | [Link](/Images)  |     |  |
+| Gliders      |  |  | [Link](/Images/outdoor/2gliders.JPEG)  |     |  |
+| Outdoor Chairs      |  |  | [Link](/Images/outdoor/2outdoorchairs.JPEG)  |     |  |
+| Chimes      |  |  | [Link](/Images/outdoor/chimes.JPEG)  |     |Stewart  |
+| Dog Food Box      |  |  | [Link](/Images/outdoor/dogfoodbox.JPEG)  |     |  |
+| Hanging Heart Plant      |  |  | [Link](/Images/outdoor/hangingheartplant.JPEG)  |     |  |
+| Picnic Table and Benches      |  |  | [Link](/Images/outdoor/picnictableand2benches.JPEG)  |     |  |
+| Planter Pots      |  |  | [Link](/Images/outdoor/planterpots_waterbulbs.JPEG)  |     |  |
+| Plant Stand      |  |  | [Link](/Images/outdoor/plantstand.JPEG)  |     |  |
+| Swing      |  |  | [Link](/Images/outdoor/swing.JPEG)  |     |  |
 
 
 
