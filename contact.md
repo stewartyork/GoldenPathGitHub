@@ -28,18 +28,18 @@ theme: minima
 |-------|-|---|---------|----------|------|
 | Bed      | |   |[Link](/Images/back/bed.JPEG)         |          | Rena/Brandon     |
 | Bookcase      | |   |[Link](/Images/back/bookcase.JPEG)         |          |     |
-|Cardio Pedal       | |   |[Link](/Images/back/cardiopedal.JPEG)         |          |     |
-|Computer Chair       | |   |[Link](/Images/back/computerchair.JPEG)         |          |     |
+| Cardio Pedal       | |   |[Link](/Images/back/cardiopedal.JPEG)         |          |     |
+| Computer Chair       | |   |[Link](/Images/back/computerchair.JPEG)         |          |     |
 | Computer      | |   |[Link](/Images/back/computermonitor_keyboard.JPEG)         |          |     |
 | Desk      | |   |[Link](/Images/back/desk.JPEG)         |          |     |
-|Vaccum       | |   |[Link](/Images/back/vacuums.JPEG)         |          |     |
+| Vaccum       | |   |[Link](/Images/back/vacuums.JPEG)         |          |     |
 | Hall Artwork      | |   |[Link](/Images/back/hallartwork.JPEG)         |          |     |
 | Printer      | |   |[Link](/Images/back/printer.JPEG)         |          |     |
 | Rocking Chair      | |   |[Link](/Images/back/rockingchair.JPEG)         |          |     |
 | Round Tower Table      | |   |[Link](/Images/back/roundtowertable.JPEG)         |          |     |
 | Shredder      | |   |[Link](/Images/back/shredder.JPEG)         |          |     |
 | Step Stool      | |   |[Link](/Images/back/stepstool.JPEG)         |          |     |
-|Table Lamp      | |   |[Link](/Images/back/tablelamp.JPEG)         |          |     |
+| Table Lamp      | |   |[Link](/Images/back/tablelamp.JPEG)         |          |     |
 
 ## Master Bedroom
 
@@ -48,12 +48,12 @@ theme: minima
 | Bed      |  |  | [Link](/Images/master/bed.JPEG)  |     | Storage |
 | Bedside Table     |  |  | [Link](/Images/master/bedsidetable.JPEG)  |     |Storage  |
 | Bird Picture     |  |  | [Link](/Images/master/birdpic.JPEG)  |     |  |
-|Directory Chair      |  |  | [Link](/Images/master/chair.JPEG)  |     |  |
+| Directory Chair      |  |  | [Link](/Images/master/chair.JPEG)  |     |  |
 | Dog Picture     |  |  | [Link](/Images/master/dogpicture.JPEG)  |     |  |
 | Dresser w/mirror     |  |  | [Link](/Images/master/dresserwithmirror.JPEG)  |     |Storage  |
 | DVD Table     |  |  | [Link](/Images/master/DVDtable.JPEG)  |     |  |
 | Lamps     |  |  | [Link](/Images/master/lamps.JPEG)  |     | Carl |
-|Bedside Table      |  |  | [Link](/Images/master/bedsidetable.JPEG)  |     |  |
+| Bedside Table      |  |  | [Link](/Images/master/bedsidetable.JPEG)  |     |  |
 | Small Bookcase     |  |  | [Link](/Images/master/smallbookcase.JPEG)  |     |  |
 | Tall Dresser     |  |  | [Link](/Images/master/talldresser.JPEG)  |     |Storage  |
 | TV     |  |  | [Link](/Images/master/tv.JPEG)  |     |  |
@@ -106,7 +106,7 @@ theme: minima
 | Fan      |  |  | [Link](/Images/middle/fan.JPEG)  |     |  |
 | Low Dresser      |  |  | [Link](/Images/middle/lowdresser.JPEG)  |     |  |
 | Table with Basket      |  |  | [Link](/Images/middle/tablewithbaskets.JPEG)  |     |  |
-| TV      |  |  | [Link](/Images/middle/tv.JPEG)  |     |  |
+| TV      |  |  | [Link](/Images/middle/tv.JPEG)  |     |Kathy  |
 
 ## Rena Bedroom
 
