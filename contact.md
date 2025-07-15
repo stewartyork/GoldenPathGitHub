@@ -64,9 +64,9 @@ theme: minima
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
 | Blue Couch      |  |  | [Link](/Images/den/bluecouch.JPEG)  |     |  |
-| Carl Artwork      |  |  | [Link](/Images/den/carl%20den%20artwork%20(4in).png)  |     | Carl/Carly |
-| Corner Cabinet      |  |  | [Link](/Images/den/corner%20cabinet%20(4in).png)  |     |  |
-|  Den Lamp     |  |  | [Link](/Images/den/den%20lamp%20(4in).png)  |     |  |
+| Carl Artwork      |  |  | [Link](/Images/den/carldenartwork.JPEG)  |     | Carl/Carly |
+| Corner Cabinet      |  |  | [Link](/Images/den/cornercabinet.JPEG)  |     |  |
+|  Den Lamp     |  |  | [Link](/Images/den/denlamp(4in).JPEG)  |     |  |
 | Den Rug      |  |  | [Link](/Images/den/den%20rug%20(4in).png)  |     |  |
 |  Den Tv     |  |  | [Link](/Images/den/den%20tv%20(4in).png)  |     |Kathy/Carl  |
 |  Heater     |  |  | [Link](/Images/den/fire%20place%20(4in).png)  |     |  |
