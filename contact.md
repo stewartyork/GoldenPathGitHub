@@ -134,13 +134,15 @@ theme: minima
 | Plant Stand      |  |  | [Link](/Images/outdoor/plantstand.JPEG)  |     |  |
 | Swing      |  |  | [Link](/Images/outdoor/swing.JPEG)  |     |  |
 
-## SQuilt Machine
+## Quilt Machine
+
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
 | Quilt Machine      |  |  | [Link]()  |     |Rena |
 
 
 ## Auto
+
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
 | Moms Hyundai     |  |  | [Link]()  |     |Carl  |
