@@ -63,7 +63,7 @@ theme: minima
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-| Blue Couch      |  |  | [Link](/Images/den/blue%20couch.JPEG)  |     |  |
+| Blue Couch      |  |  | [Link](/Images/den/bluecouch.JPEG)  |     |  |
 | Carl Artwork      |  |  | [Link](/Images/den/carl%20den%20artwork%20(4in).png)  |     | Carl/Carly |
 | Corner Cabinet      |  |  | [Link](/Images/den/corner%20cabinet%20(4in).png)  |     |  |
 |  Den Lamp     |  |  | [Link](/Images/den/den%20lamp%20(4in).png)  |     |  |
