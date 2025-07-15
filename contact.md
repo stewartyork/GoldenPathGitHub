@@ -63,7 +63,26 @@ theme: minima
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-|       |  |  | [Link](/Images)  |     |  |
+| Blue Couch      |  |  | [Link](/Images/den/blue%20couch%20(4in).png)  |     |  |
+| Carl Artwork      |  |  | [Link](/Images/den/carl%20den%20artwork%20(4in).png)  |     | Carl/Carly |
+| Corner Cabinet      |  |  | [Link](/Images/den/corner%20cabinet%20(4in).png)  |     |  |
+|  Den Lamp     |  |  | [Link](/Images/den/den%20lamp%20(4in).png)  |     |  |
+| Den Rug      |  |  | [Link](/Images/den/den%20rug%20(4in).png)  |     |  |
+|  Den Tv     |  |  | [Link](/Images/den/den%20tv%20(4in).png)  |     |Kathy/Carl  |
+|  Heater     |  |  | [Link](/Images/den/fire%20place%20(4in).png)  |     |  |
+| Floor Fan      |  |  | [Link](/Images/den/floor%20fan%20(4in).png)  |     |  |
+|Floor Lamp       |  |  | [Link](/Images/den/floor%20lamp%20(4in).png)  |     |  |
+| Green Recliner      |  |  | [Link](/Images/den/green%20recliner%20(4in).png)  |     |  |
+|Hexagon Table       |  |  | [Link](/Images/den/hexagon%20table%20(4in).png)  |     | Stewart |
+| Leather Couch     |  |  | [Link](/Images/den/leather%20couch%20(4in).png)  |     |  |
+| Matching Side Tables      |  |  | [Link](/Images/den/matching%20side%20table%20(4in).png)  |     |  |
+| Rat High table      |  |  | [Link](/Images/den/Rats%20high%20table%20(4in).png)  |     |  |
+| Red Recliner      |  |  | [Link](/Images/den/red%20recliner%20(4in).png)  |     |  |
+|Side Table       |  |  | [Link](/Images/den/side%20table%20(has%20matchimg%20one)%20(4in).png)  |     |  |
+|Samll Folding Chair       |  |  | [Link](/Images/den/small%20folding%20table%20(4in).png)  |     |  |
+| TV Stand      |  |  | [Link](/Images/den/tv%20stand%20(4in).png)  |     |  |
+| Wall Clock      |  |  | [Link](/Images/den/wall%20clock%20(4in).png)  |     |  |
+
 
 ## Kitchen
 
