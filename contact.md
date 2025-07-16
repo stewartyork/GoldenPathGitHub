@@ -66,20 +66,20 @@ theme: minima
 | Blue Couch      |  |  | [Link](/Images/den/bluecouch.JPEG)  |     |  |
 | Carl Artwork      |  |  | [Link](/Images/den/carldenartwork.JPEG)  |     | Carl/Carly |
 | Corner Cabinet      |  |  | [Link](/Images/den/cornercabinet.JPEG)  |     |  |
-|  Den Lamp     |  |  | [Link](/Images/den/denlamp(4in).JPEG)  |     |  |
+| Den Lamp     |  |  | [Link](/Images/den/denlamp(4in).JPEG)  |     |  |
 | Den Rug      |  |  | [Link](/Images/den/denrug.JPEG)  |     |  |
-|  Den Tv     |  |  | [Link](/Images/den/dentv.JPEG)  |     |Kathy/Carl  |
-|  Heater     |  |  | [Link](/Images/den/fireplace.JPEG)  |     |  |
+| Den Tv     |  |  | [Link](/Images/den/dentv.JPEG)  |     |Kathy/Carl  |
+| Heater     |  |  | [Link](/Images/den/fireplace.JPEG)  |     |  |
 | Floor Fan      |  |  | [Link](/Images/den/floorfan.JPEG)  |     |  |
-|Floor Lamp       |  |  | [Link](/Images/den/floorlamp.JPEG)  |     |  |
+| Floor Lamp       |  |  | [Link](/Images/den/floorlamp.JPEG)  |     |  |
 | Green Recliner      |  |  | [Link](/Images/den/greenrecliner.JPEG)  |     |  |
-|Hexagon Table       |  |  | [Link](/Images/den/hexagontable.JPEG)  |     | Stewart |
+| Hexagon Table       |  |  | [Link](/Images/den/hexagontable.JPEG)  |     | Stewart |
 | Leather Couch     |  |  | [Link](/Images/den/leathercouch.JPEG)  |     |  |
 | Matching Side Tables      |  |  | [Link](/Images/den/matchingsidetable.JPEG)  |     |  |
 | Rat High table      |  |  | [Link](/Images/den/Ratshightable.JPEG)  |     |  |
 | Red Recliner      |  |  | [Link](/Images/den/redrecliner.JPEG)  |     |  |
-|Side Table       |  |  | [Link](/Images/den/sidetable2.JPEG)  |     |  |
-|Small Folding Chair       |  |  | [Link](/Images/den/smallfoldingtable.JPEG)  |     |  |
+| Side Table       |  |  | [Link](/Images/den/sidetable2.JPEG)  |     |  |
+| Small Folding Chair       |  |  | [Link](/Images/den/smallfoldingtable.JPEG)  |     |  |
 | TV Stand      |  |  | [Link](/Images/den/tvstand.JPEG)  |     |  |
 | Wall Clock      |  |  | [Link](/Images/den/wallclock.JPEG)  |     |  |
 
@@ -93,7 +93,7 @@ theme: minima
 | Kitchen Painting      |  |  | [Link](/Images/kitchen/kitchenpainting.JPEG)  |     |  |
 | Kitchen Table/Chairs      |  |  | [Link](/Images/kitchen/kitchentableandchairs.JPEG)  |     |  |
 | Portable Storage Cabinet      |  |  | [Link](/Images/kitchen/portablestoragecabinet.JPEG)  |     |  |
-|Prayer Hands       |  |  | [Link](/Images/kitchen/prayerhands.JPEG)  |     |  |
+| Prayer Hands       |  |  | [Link](/Images/kitchen/prayerhands.JPEG)  |     |  |
 | Spice Rack      |  |  | [Link](/Images/kitchen/spicerack.JPEG)  |     |  |
 
 
@@ -124,7 +124,7 @@ theme: minima
 
 | Name  | | |Add Pics | Cost ($) |Claim |
 |-------|-|-|---------|----------|------|
-| Gliders      |  |  | [Link](/Images/outdoor/2gliders.JPEG)  |     |  |
+| Gliders      |  |  | [Link](/Images/outdoor/2gliders.JPEG)  |     |Stewart  |
 | Outdoor Chairs      |  |  | [Link](/Images/outdoor/2outdoorchairs.JPEG)  |     |  |
 | Chimes      |  |  | [Link](/Images/outdoor/chimes.JPEG)  |     |Stewart  |
 | Dog Food Box      |  |  | [Link](/Images/outdoor/dogfoodbox.JPEG)  |     |  |
