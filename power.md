@@ -6,7 +6,7 @@ theme: minima
 [Back](home.html)
 
 # 12300 Power Box Designations
-## Board
+## Electric Panel
 [Model 1000](/Images/guns/Model1000_Gun.JPEG)
 
 | Name  |Position|Notes   |
