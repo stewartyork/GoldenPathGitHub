@@ -9,6 +9,6 @@ theme: minima
 ## Electric Panel
 ![Electronic Panel](/Images/OHOutletBox.JPEG)
 
-| Name  |Position|Notes   |
+| No | Name  |Notes   |
 |-------|-----------|--------|
-|Bedroom 1 (Right Side)     |  Right 7   |  Rena's Original Bedroom    | 
+| 1  | Bedroom 1 (Right Side)     |   Rena's Original Bedroom    | 
