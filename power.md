@@ -7,7 +7,7 @@ theme: minima
 
 # 12300 Power Box Designations
 ## Electric Panel
-(/Images/OHOutletBox.JPEG)
+![Electronic Panel](/Images/OHOutletBox.JPEG)
 
 | Name  |Position|Notes   |
 |-------|-----------|--------|
